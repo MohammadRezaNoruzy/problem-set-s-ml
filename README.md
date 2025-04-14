@@ -15,7 +15,11 @@ This notebook demonstrates:
 - **SVM with Different Kernels**: The notebook explores how different SVM kernels (Linear, Polynomial, RBF) affect classification results.
 - **Tuning Polynomial Kernel Degree**: The effect of adjusting the degree parameter for a polynomial kernel and finding the best value.
 - **Grid Search Optimization**: Utilizing grid search to find the best hyperparameters, including `C`, `kernel`, and `degree` for polynomial kernels, for optimal classification accuracy.
+-----------------------------------------------------------------------------------------------
+To provide an extended description in English for your code, I'll first assume that the content of the PDF file (Problem Set #2 (1).pdf) contains a problem or task that your code is addressing. Since I don't have access to external files or the ability to read PDFs, you can describe the problem or task from the PDF, and I’ll help you write an appropriate extended description.
 
+However, based on the context of your code and the filename (Problem Set #2 (1).pdf), I’ll create a general extended description that aligns with typical problem sets involving logistic regression or probability calculations. You can adjust it later based on the actual content of the PDF.
+-----------------------------------------------------------------------------------------
 ## How to Use
 
 ### 1. Clone the repository
