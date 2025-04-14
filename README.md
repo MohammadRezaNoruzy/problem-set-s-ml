@@ -1,6 +1,5 @@
-===================================================================
 README: Problem Set #1 - Linear Regression
-==========================================================
+
 This repository contains Python implementations and solutions for the exercises outlined in Problem Set #1: Linear Regression . The goal of this assignment is to enhance your understanding of linear regression and its extensions through hands-on coding and visualization. Each question addresses a specific aspect of linear regression, such as model training, evaluation, basis functions, weighted regression, and more.
 This repository provides solutions for the following tasks:
 
@@ -22,10 +21,8 @@ scikit-learn
 statsmodels (for hierarchical modeling)
 PyMC (optional, for Bayesian hierarchical modeling)
 
-
-======================================================================================================
+-------------------------------------------------
 Problem Set #2 (1)
-=====================================================
 # SVM Parameter Tuning and Optimization
 
 This repository contains Jupyter Notebooks for experimenting with Support Vector Machines (SVM) and tuning its parameters for optimal performance using different kernel functions. The main goal of this project is to explore how various SVM parameters, like the kernel type and polynomial degree, affect model performance, and how to find the best parameters using Grid Search.
